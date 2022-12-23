@@ -1,6 +1,6 @@
 # movie_ticket_reserve
 
-A new Flutter project.
+A new Flutter project (mobile android).
 
 ## Getting Started
 
